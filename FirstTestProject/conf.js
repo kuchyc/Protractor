@@ -1,4 +1,5 @@
 exports.config = {
+    //lets see if git works
     directConnect: true,
     capabilities: {
         'browserName': 'chrome'
